@@ -1,4 +1,5 @@
-https://www.curseforge.com/minecraft/mc-mods/candylands(Builderdog841 Owner)
+https://www.curseforge.com/minecraft/mc-mods/candylands
+Builderdog841 Owner  Builderdog841是其制作者
 Minecraft Mod [Candlands]
 汉化文件 zh_cn.json 
 简体中文 Simplified Chinese
